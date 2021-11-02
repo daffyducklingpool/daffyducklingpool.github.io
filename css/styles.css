@@ -11351,6 +11351,10 @@ header.masthead .masthead-paragraph {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+.blog-modal {
+  overflow-y: scroll;
+}
+
 .blog-modal .modal-dialog {
   margin: 1rem;
   max-width: 100vw;
